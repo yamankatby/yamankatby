@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is _Yaman_
 
-I make 📱 mobile apps for 🤖 Android and 🍎 iOS (sometimes just for fun), I'm pretty good at designing my own 🎨 UI/UX and then converting my designs to real projects. Up to date I crafted and delivered more than 20 projects. 🚀
+Software Engineer, currently working with the great team 🐝 [@invertase](https://github.com/invertase) shipping the feature of 🔥 [Firebase extensions](https://firebase.google.com/products/extensions) project.
 
-Currently working with the great team 🐝 [@invertase](https://github.com/invertase) shipping the feature of 🔥 [Firebase extensions](https://firebase.google.com/products/extensions) project.
+I make 📱 mobile apps for 🤖 Android and 🍎 iOS (sometimes just for fun), I'm pretty good at designing my own 🎨 UI/UX and then converting my designs to real projects. Up to date I crafted and delivered more than 20 projects. 🚀
 
 #### These are some of the projects I made and most proud 🫶 of:
 
@@ -12,9 +12,9 @@ Currently working with the great team 🐝 [@invertase](https://github.com/inver
 
 I also love GitHub and its entire community 🥰, It never ceases to amaze me to see how projects evolve rapidly when everyone gives a hand so I constantly try to work on contributing to open-source projects.
 
-Also checkout my 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/yamankatby), and 🐦 [Twitter](https://twitter.com/yamankatby) profiles, and if you miss me while hacking run `npx yaman` and you'll find me around you.
+Also checkout my 🐦 [Twitter](https://twitter.com/yamankatby), 🔗 [LinkedIn](https://www.linkedin.com/in/yamankatby), and 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi) profiles, and if you miss me while hacking run `npx yaman` and you'll find me around you.
 
-[tr (Türkçe)](https://github.com/yamankatby/yamankatby) · [ar (عربي)](https://github.com/yamankatby/yamankatby)
+<!-- [tr (Türkçe)](https://github.com/yamankatby/yamankatby) · [ar (عربي)](https://github.com/yamankatby/yamankatby) -->
 
 <!--
 **yamankatby/yamankatby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
