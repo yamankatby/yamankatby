@@ -12,7 +12,7 @@ I make 📱 mobile apps for 🤖 Android and 🍎 iOS (sometimes just for fun), 
 
 I also love GitHub and its entire community 🥰, It never ceases to amaze me to see how projects evolve rapidly when everyone gives a hand so I constantly try to work on contributing to open-source projects.
 
-Also checkout my 🐦 [Twitter](https://twitter.com/yamankatby), 🔗 [LinkedIn](https://www.linkedin.com/in/yamankatby), and 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi) profiles, and if you miss me while hacking run `npx yaman` and you'll find me around you.
+Also checkout my 🐦 [Twitter](https://twitter.com/yamankatby), 🔗 [LinkedIn](https://www.linkedin.com/in/yamankatby), and 💬 [StackOverflow](https://stackoverflow.com/users/10278150/yaman-katby) profiles, and if you miss me while hacking run `npx yaman` and you'll find me around you.
 
 <!-- [tr (Türkçe)](https://github.com/yamankatby/yamankatby) · [ar (عربي)](https://github.com/yamankatby/yamankatby) -->
 
