@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build 🌐 websites and 📱 mobile apps — 🤖 Android and 🍎 iOS — with coffee and love. Currently working with the great team 🐝 [@invertase](https://github.com/invertase) shipping the feature of the 🔥 [Firebase extensions](https://firebase.google.com/products/extensions) project.
+I build 🌐 websites and 📱 mobile apps — 🤖 Android and 🍎 iOS — with coffee and love.
 
 - 🔭 I’m currently working on 🔥 [firebase/extensions](https://github.com/firebase/extensions)
 - 🌱 I’m currently learning ⚙️ Business Administration, 🔊 Digital Marketing
