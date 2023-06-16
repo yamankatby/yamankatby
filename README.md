@@ -2,8 +2,8 @@
 
 I build 🌐 websites and 📱 mobile apps — 🤖 Android and 🍎 iOS — with coffee and love.
 
-- 🔭 I’m currently working on 🔥 [firebase/extensions](https://github.com/firebase/extensions)
-- 🌱 I’m currently learning ⚙️ Business Administration, 🔊 Digital Marketing
+- 🔭 I’m currently working on [Rowy](https://github.com/rowyio/rowy)
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 🧑‍💻 JavaScript ecosystem, ☁️ Google Cloud Platform, 🔥 Firebase
