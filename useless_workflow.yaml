@@ -1,4 +1,5 @@
 useless:
+  params: []
   steps:
     - Personal information:
         assign:
