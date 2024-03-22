@@ -1,4 +1,4 @@
-useless_flow:
+useless_workflow:
   params: []
   steps:
     - Personal information:
