@@ -1,11 +1,13 @@
-- Personal information:
-    assign:
-      - name: Yaman Katby
-      - location: Bursa, Türkiye
-- Hobbies:
-    assign:
-      - hobbies:
-          - Programming
-          - Eating food
-          - More programming
-          - Gym
+useless:
+  steps:
+    - Personal information:
+        assign:
+          - name: Yaman Katby
+          - location: Bursa, Türkiye
+    - Hobbies:
+        assign:
+          - hobbies:
+              - Programming
+              - Eating food
+              - More programming
+              - Gym
